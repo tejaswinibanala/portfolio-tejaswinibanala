@@ -93,9 +93,10 @@ const Navbar = () => {
   );
 };
 
-const NavLink = ({ to, children }: { to: string; children: React.ReactNode }) => (
+const NavLink = ({ to, children, onClick }: { to: string; children: React.ReactNode; onClick?: () => void }) => (
   <Link
     to={to}
+    onClick={onClick}
     className="block text-gray-700 hover:text-purple-600 transition-colors font-medium px-3 py-2"
   >
     {children}

@@ -6,7 +6,7 @@ const Experience = () => {
     <motion.div
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
-      className="min-h-screen pt-24 px-4 max-w-7xl mx-auto"
+      className="min-h-screen pt-24 px-4 pb-16 max-w-7xl mx-auto"
     >
       <h2 className="text-4xl font-bold text-gray-900 mb-8">Experience</h2>
       <div className="space-y-8">
