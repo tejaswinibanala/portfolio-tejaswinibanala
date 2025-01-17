@@ -33,7 +33,7 @@ const Projects = () => {
             "Implemented backend logic with Java and Hibernate for efficient data management",
             "Designed and managed MySQL database schema, performed unit testing"
           ]}
-          githubUrl="https://github.com/example/building-management"
+          githubUrl="https://github.com/tejaswinibanala/Building-Management-System"
           liveUrl=""
         />
 
@@ -47,7 +47,7 @@ const Projects = () => {
             "Designed user interfaces for viewing chat history and real-time messaging",
             "Enhanced data security through robust authentication mechanisms"
           ]}
-          githubUrl="https://github.com/example/chat-app"
+          githubUrl=""
           liveUrl=""
         />
 

@@ -36,7 +36,7 @@ const Home = () => {
             >
               <SocialLink href="https://github.com/tejaswinibanala" icon={<Github />} />
               <SocialLink
-                href="https://www.linkedin.com/in/tejaswini-banala/"
+                href="https://www.linkedin.com/in/b-tejaswini/"
                 icon={<Linkedin />}
               />
               <SocialLink

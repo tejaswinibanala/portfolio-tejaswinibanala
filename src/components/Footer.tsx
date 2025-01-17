@@ -17,7 +17,7 @@ export const Footer = () => {
                   </svg>
                   <span className="sr-only">GitHub account</span>
               </Link>
-              <Link to="https://www.linkedin.com/in/tejaswini-banala/" className="text-slate-300 hover:text-slate-400 dark:hover:text-white ms-5">
+              <Link to="https://www.linkedin.com/in/b-tejaswini/" className="text-slate-300 hover:text-slate-400 dark:hover:text-white ms-5">
                 <svg
                     className="w-5 h-5" 
                     xmlns="http://www.w3.org/2000/svg" 
